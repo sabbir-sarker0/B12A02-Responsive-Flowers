@@ -21,27 +21,39 @@
         font-family: "Noto Serif", serif;
     }
 }
-      
-         /* Navbar Section */
-             
-.text-left {
+
+
+
+.text-align-left {
     padding-left: 1rem;
 
 }
 
-.header {
+.header-section {
     margin: 20px auto;
 }
 
-.hero {
+.hero-section {
     margin: 20px auto;
 }
 
-.banner-image {
+.banner-image-container {
     margin: 20px auto;
 }
 
-.plants-section {
+.plants-display-section {
     margin: 20px auto 80px auto;
+}
+
+/* Our Plants Section */
+
+.add-to-cart-btn {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.product-card-info-text {
+    margin-bottom: 30px;
+    margin-top: 20px;
 }
 
