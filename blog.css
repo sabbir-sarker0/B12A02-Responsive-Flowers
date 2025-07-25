@@ -106,5 +106,105 @@
     color: #555;
     line-height: 1.6;
 }
+/* Latest Deals Section */
 
+.latest-deals-section {
+    margin: 40px auto;
+}
+
+.deals-section-header {
+    padding: 20px;
+}
+
+.deals-section-header h1 {
+    margin-bottom: 15px;
+}
+
+.special-deals {
+    max-width: 1140px;
+    margin: 50px auto;
+}
+
+.special-deals-right {
+    width: 33%;
+}
+
+.deal-card-one {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../assets/deal-bloom.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 200px;
+    border-radius: 14px;
+    text-align: center;
+    overflow: hidden;
+
+
+}
+
+.deal-card-two {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../assets/deal-ana.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 200px;
+    border-radius: 14px;
+    text-align: center;
+    overflow: hidden;
+}
+
+.special-deals-left {
+    width: 66%;
+}
+
+.deal-card-three {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../assets/deal-zabo.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 14px;
+    text-align: center;
+    height: 420px;
+    color: white;
+    overflow: hidden;
+}
+
+/* Newsletter Join Section */
+
+.newsletter-join-section {
+    background-image: url('../assets/news-letter-bg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 400px;
+    width: 100%;
+    overflow: hidden;
+    margin-bottom: 30px;
+}
+
+.newsletter-content h1 {
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.email-input-box {
+    border: none;
+    overflow: hidden;
+    max-width: 600px;
+    width: 100%;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.email-input-box input {
+    width: 450px;
+    height: 40px;
+    border: none;
+    outline: none;
+    flex: 1;
+}
+
+.email-input-box input::placeholder {
+    padding-left: 20px;
+}
+
+.email-input-box button {
+    padding: 0 12px 0 12px;
+}
 
