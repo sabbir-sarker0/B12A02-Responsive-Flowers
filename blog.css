@@ -129,7 +129,7 @@
 }
 
 .deal-card-one {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../assets/deal-bloom.png');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('./assets/deal-bloom.png');
     background-size: cover;
     background-repeat: no-repeat;
     height: 200px;
@@ -141,7 +141,7 @@
 }
 
 .deal-card-two {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../assets/deal-ana.png');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('./assets/deal-ana.png');
     background-size: cover;
     background-repeat: no-repeat;
     height: 200px;
