@@ -155,7 +155,7 @@
 }
 
 .deal-card-three {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../assets/deal-zabo.png');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('./assets/deal-zabo.png');
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 14px;
